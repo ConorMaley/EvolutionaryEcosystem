@@ -3,7 +3,7 @@ Evolutionary Ecosystem with predator and prey. Adapted from Daniel Shiffman <htt
 
 ecosystemTest.pde is the main file. 
 
-Created using Processing 3
+Created using Processing 3.
 
-Used to model Lotka-Volterra differential equations. After each run, the 
+Used to model Lotka-Volterra differential equations. After each run, the count of the bloops and predators are recorded. 
 
